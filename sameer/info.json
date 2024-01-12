@@ -1,0 +1,110 @@
+{
+    "name": "Sameer Biradar",
+    "mail": "biradarsameer5@gmail.com",
+    "education": [
+        {
+            "degree": "NBN Sinhgad School of Engineering B.E. IT",
+            "school": "SAVITRIBAI PHULE PUNE UNIVERSITY ",
+            "graduationYear": 2023
+        },
+        {
+            "degree": "PVG'S College of Science, Pune",
+            "school": "HSC State Board  ",
+            "graduationYear": 2019
+        },
+        {
+            "degree": "Deccan Education Society's New English School",
+            "school": "SSC State Board   ",
+            "graduationYear": 2017
+        }
+    ],
+    "sill_list": [
+        {
+            "fild": "Web Development:",
+            "sill": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "ReactJS",
+                "Node.js",
+                "Express.js"
+            ]
+        },
+        {
+            "fild": "Database Management:",
+            "sill": [
+                "MongoDB",
+                "MySQL"
+            ]
+        },
+        {
+            "fild": "Cloud Computing:",
+            "sill": [
+                "AWS (Amazon Web Services)",
+                "GCP (Google's  data analytics and machine learning)"
+            ]
+        },
+        {
+            "fild": "Programming Languages:",
+            "sill": [
+                "Python",
+                "java"
+            ]
+        }
+    ],
+    "certifications_list": [
+        {
+            "name": "[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02",
+            "link": "https://sameerbiradar.s3.ap-south-1.amazonaws.com/+certification/UC-60477cef-1ec7-4ba4-936f-5b22069fb410+(1).pdf"
+        },
+        {
+            "name": "Google Cloud Digital Leader Training Professional Certificate",
+            "link": "https://sameerbiradar.s3.ap-south-1.amazonaws.com/+certification/Coursera+QHRD7V7WEAJK.pdf"
+        },
+        {
+            "name": "Crash Course for Web development",
+            "link": ""
+        },
+        {
+            "name": "Crash Course for Python",
+            "link": ""
+        }
+    ],
+    "languages": [
+        "English",
+        "Marathi",
+        "Hindi"
+    ],
+    "projects": [
+        {
+            "date": "Aug 2023 ",
+            "name": "React portfolio",
+            "description": [
+                "Responsive Design: ensuring optimal viewing experiences across various devices.",
+                "State Management: efficient data flow and application state.",
+                "Component Architecture: implementing modular component-based architectures, promoting code reusability and maintainability.",
+                "Link: <a href='https://sameer-biradar-portfolio.vercel.app/' target='_blank'>Visit Project</a>"
+            ]
+        },
+        {
+            "date": "Jan 2024",
+            "name": "website on Amazon S3 | AWS Project",
+            "description": [
+                
+                "Use an Amazon S3 bucket to host a sample website.",
+                "Enable static website hosting and direct the domain to the S3 bucket.",
+                "Link: <a href='' >This is a project ha ha  hah</a>"
+            ]
+        },
+        {
+            "date": "Apr 2022",
+            "name": "Creating platform using Web development tools",
+            "description": [
+                "Developed platform for direct communication and transparent ecosystem.",
+                " Used JAVA to program the backend for this project.",
+                "Used HTML / CSS for frontend web pages.",
+                "Used NetBeans IDE 5.5 to create and deploy theweb applications for Web Server."
+            ]
+        }
+    ]
+}
